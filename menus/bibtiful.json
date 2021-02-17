@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "bibtify bibtiful",
+        "command": "bibtiful:bibtify"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Bibtiful",
+          "submenu": [
+            {
+              "label": "Bibtify",
+              "command": "bibtiful:bibtify"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
