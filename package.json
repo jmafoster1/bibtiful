@@ -5,7 +5,8 @@
   "description": "Sort bibtex entries alphabetically by key and sort fields alphabetically by name within each entry.",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "bibtiful:bibtify"
+    "atom-workspace": "bibtiful:bibtify",
+    "atom-workspace": "bibtiful:standardiseKeys"
   },
   "repository": "https://github.com/jmafoster1/bibtiful",
   "license": "MIT",

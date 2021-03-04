@@ -4,6 +4,10 @@
       {
         "label": "bibtify bibtiful",
         "command": "bibtiful:bibtify"
+      },
+      {
+        "label": "bibtify standardiseKeys",
+        "command": "bibtiful:standardiseKeys"
       }
     ]
   },
@@ -17,6 +21,10 @@
             {
               "label": "Bibtify",
               "command": "bibtiful:bibtify"
+            },
+            {
+              "label": "Standardise Keys",
+              "command": "bibtiful:standardiseKeys"
             }
           ]
         }
